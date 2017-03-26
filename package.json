@@ -9,7 +9,7 @@
     "server": "webpack-dev-server",
     "deploy": "npm run build && git subtree push --prefix dist origin gh-pages"
   },
-  "repository": "https://github.com/StephenGrider/WebpackProject",
+  "repository": "https://github.com/Hysterias/WebpackProject",
   "author": "",
   "license": "ISC",
   "dependencies": {
